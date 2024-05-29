@@ -1,0 +1,15 @@
+extends layout
+
+block content
+  h1= welcome
+  h2= 'Blocked users list'
+  //- p Nama: #{datas[0].name}
+  ul
+   if datas
+    each val in datas
+      li= val.uuid
+      li= val.name
+      li= val.address
+      br
+   else
+    li= 'There are no data'
