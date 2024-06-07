@@ -1,4 +1,4 @@
-# Practice Project/Knowladge Youtube Dea Afrizal
+# Practice Project/Knowladge Youtube by Dea Afrizal
 
 ### Changelog
 - 2024-05-24 Mini Games just With HTML, CSS, Javascript
